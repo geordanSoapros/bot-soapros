@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- COMUNES -->
+  
+<category>
+<pattern>HOLA</pattern>
+<template>
+<random>
+<li>Hola <get name="name"/> :) , en que puedo ayudarte?</li>
+<li>Que tal <get name="name"/> :D , en que puedo ayudarte?</li>
+</random>
+</template>
+</category>
+    
+<category>
+<pattern>HOLA *</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>_ HOLA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>_ HOLA *</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>HOLAS</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>OLA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE ONDA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>_ QUE ONDA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE ONDA *</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>_ QUE ONDA *</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE ONDAS</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE TAL</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE TRANSA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE TRANZA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>QUE PEDO</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>BUENOS DIAS</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>BUENAS</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>BUENAS TARDES</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+<category>
+<pattern>BUENAS NOCHES</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+
+
+<category>
+<pattern>SALUDOS</pattern>
+<template>IGUALMENTE</template>
+</category>
+
+                                    <!-- COMO ESTAS -->
+
+<category>
+<pattern>COMO ESTAS</pattern>
+<template>Muy bien gracias 😊, En que puedo ayudarte?</template>
+</category>
+
+<category>
+<pattern>COMO ESTAS *</pattern>
+<template><srai>COMO ESTAS</srai></template>
+</category>
+<category>
+<pattern>_ COMO ESTAS</pattern>
+<template><srai>COMO ESTAS</srai></template>
+</category>
+
+<category>
+<pattern>_ COMO ESTAS *</pattern>
+<template><srai>COMO ESTAS</srai></template>
+</category>
+
+                                    <!-- ADIOS -->
+
+<category>
+<pattern>ADIOS</pattern>
+<template>
+<random>
+<li>Que estes bien 👋🏻 <get name="name"/>.</li>
+<li>Hasta la proxima 👋🏻 <get name="name"/>.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>NOS VEMOS</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>AHI TE VES</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>BYE</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>BAI</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>CHAU</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>CIAO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>CHAO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>HASTA PRONTO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>* HASTA PRONTO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>HASTA PRONTO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>HASTA LUEGO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>* HASTA LUEGO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>HASTA LUEGO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>* VEO LUEGO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>_ VEO LUEGO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>* VEMOS LUEGO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category>
+<pattern>_ VEMOS LUEGO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category> 
+<pattern>TE DEJO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category> 
+<pattern>TE DEJO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category> 
+<pattern>* TE DEJO</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+<category> 
+<pattern>_ TE DEJO *</pattern>
+<template><srai>ADIOS</srai></template>
+</category>
+
+
+
+                                    <!-- GRACIAS -->
+
+<category>
+<pattern>GRACIAS</pattern>
+<template>
+<random>
+<li>Por nada <get name="name"/>.</li>
+<li>Para servirte <get name="name"/>.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>_ GRACIAS</pattern>
+<template><srai>GRACIAS</srai></template>
+</category>
+
+<category>
+<pattern>GRACIAS *</pattern>
+<template><srai>GRACIAS</srai></template>
+</category>
+
+<category>
+<pattern>_ GRACIAS *</pattern>
+<template><srai>GRACIAS</srai></template>
+</category>
+
+<category>
+<pattern>VIENTOS</pattern>
+<template><srai>GRACIAS</srai></template>
+</category>
+
+                                    <!-- IGUALMENTE -->
+
+<category>
+<pattern>IGUALMENTE</pattern>
+<template>
+<random>
+<li>Gracias, Mencionaste en donde vives?</li>
+<li>Gracias <get name="name"/>, pocas personas dicen igualmente.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>IGUALMENTE *</pattern>
+<template><srai>IGUALMENTE</srai></template>
+</category>
+
+<category>
+<pattern>_ IGUALMENTE</pattern>
+<template><srai>IGUALMENTE</srai></template>
+</category>
+
+<category>
+<pattern>_ IGUALMENTE *</pattern>
+<template><srai>IGUALMENTE</srai></template>
+</category>
+
+<category>
+<pattern>TU TAMBIEN</pattern>
+<template><srai>IGUALMENTE</srai></template>
+</category>
+
+<category>
+<pattern>TAMBIEN TU</pattern>
+<template><srai>IGUALMENTE</srai></template>
+</category>
+
+                                    <!-- POR FAVOR -->
+
+<category>
+<pattern>POR FAVOR</pattern>
+<template>
+<random>
+<li>Claro <get name="name"/>. Prosesando</li>
+<li> No hay problema <get name="name"/>.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>POR FAVOR *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>_ POR FAVOR</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PORFA *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>_ PORFA</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PORFA</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PORFAS *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>_ PORFAS</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PORFA *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PORFAS</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PLIS</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>_ PLIS</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PLIS *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PLEASE</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>_ PLEASE</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+<category>
+<pattern>PLEASE *</pattern>
+<template><srai>POR FAVOR</srai></template>
+</category>
+
+                                    <!-- CHIDO -->
+
+<category>
+<pattern>CHIDO</pattern>
+<template>AL DECIR "CHIDO" QUIERES DECIR GRACIAS O QUE ESTA BIEN?</template>
+</category>
+
+<category>
+<pattern>_ CHIDO</pattern>
+<template>Asi es  <get name="name"/>.</template>
+</category>
+
+<category>
+<pattern>CHIDO *</pattern>
+<template>Asi es  <get name="name"/>.</template>
+</category>
+
+                                    <!-- ESTA BIEN -->
+
+<category>
+<pattern>ESTA BIEN</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ ESTA BIEN</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>ESTA BIEN *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>ESTA BIEN?</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>_ ESTA BIEN?</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>ESTA BIEN? *</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>ESTA BIEN ?</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>_ ESTA BIEN ?</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>ESTA BIEN ? *</pattern>
+<template>Todo bien</template>
+</category>
+
+<category>
+<pattern>VA</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>VA *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ VA</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ VA *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>BA</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>BA *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ BA</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ BA *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>OK</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>OK *</pattern>
+<template>Entendido</template>
+</category>
+
+<category>
+<pattern>_ OK</pattern>
+<template>Entendido. Tienes algun tema en particular para hablar?.</template>
+</category>
+
+<category>
+<pattern>_ OK *</pattern>
+<template>Entendido</template>
+</category>
+
+                                    <!-- CHALE -->
+
+<category>
+<pattern>CHALE</pattern>
+<template>
+<random>
+<li>ASI ES <get name="name"/>.</li>
+<li>NI MODO</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>CHALE *</pattern>
+<template>CHALE</template>
+</category>
+
+<category>
+<pattern>_ CHALE</pattern>
+<template>CHALE</template>
+</category>
+
+<category>
+<pattern>_ CHALE *</pattern>
+<template>CHALE</template>
+</category>
+
+<category>
+<pattern>CHALES *</pattern>
+<template>CHALE</template>
+</category>
+
+<category>
+<pattern>_ CHALES</pattern>
+<template>CHALE</template>
+</category>
+
+<category>
+<pattern>_ CHALES *</pattern>
+<template>CHALE</template>
+</category>
+
+                                    <!-- GACHO -->
+
+<category>
+<pattern>GACHO</pattern>
+<template>
+<random>
+<li>LO SE</li>
+<li>ENTIENDO LO QUE SIENTES <get name="name"/>.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>GACHO *</pattern>
+<template>GACHO</template>
+</category>
+
+<category>
+<pattern>_ GACHO</pattern>
+<template>GACHO</template>
+</category>
+
+<category>
+<pattern>_ GACHO *</pattern>
+<template>GACHO</template>
+</category>
+  
+  
+  
+</aiml>

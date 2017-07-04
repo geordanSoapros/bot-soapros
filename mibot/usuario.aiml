@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<!-- USUARIO INFO -->
+
+                   <!-- USUARIO NOMBRE -->
+
+
+<!--
+<category>
+<pattern>*</pattern>
+<that>HOLA</that>
+<template>Mucho gusto <set name="name"><star/></set></template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>QUE TAL</that>
+<template>Mucho gusto <set name="name"><star/></set></template>
+</category>
+-->
+<category>
+<pattern>LLAMAME *</pattern>
+<template>Mucho gusto <set name="name"><star/></set></template>
+</category>
+
+<category>
+<pattern>ME LLAMO *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>PUEDES LLAMARME *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>PUEDES DECIRME *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>DIME *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>ME DICEN *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>MI NOMBRE ES *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>SOY *</pattern>
+<template><srai>LLAMAME <star/></srai></template>
+</category>
+
+<category>
+<pattern>NOMBRE DEL USUARIO</pattern>
+<template><srai>Me dijiste que tu nombre es <get name="name"/></srai></template>
+</category>
+
+<category>
+<pattern>NOMBRE DEL USUARIO *</pattern>
+<template><srai>Me dijiste que tu nombre es <get name="name"/></srai></template>
+</category>
+
+<category>
+<pattern>COMO ME LLAMO</pattern>
+<template><srai>Nombre del usuario <get name="name"/>.</srai></template></category>
+
+<category>
+<pattern>CUAL ES MI NOMBRE</pattern>
+<template><srai>Nombre del usuario <get name="name"/>.</srai></template></category>
+
+<category>
+<pattern>QUIEN SOY</pattern>
+<template><srai>Nombre del usuario <get name="name"/>.</srai></template></category>
+
+<category>
+<pattern>KIEN SOY</pattern>
+<template>Me dijiste que tu nombre es <get name="name"/>.</template>
+</category>
+
+<category>
+<pattern>COMO ME DICEN</pattern>
+<template>Me dijiste que tu nombre es <get name="name"/>.</template>
+</category>
+
+<category>
+<pattern>MI NOMBRE</pattern>
+<template>Me dijiste que tu nombre es <get name="name"/>.</template>
+</category>
+
+
+
+                   <!-- USUARIO EDAD -->
+                   
+
+<category>
+<pattern>TENGO *</pattern>
+<template>Gracias lo recordare.
+<think><set name="age"><star/></set></think>
+</template>
+</category>
+
+<category>
+<pattern>YO TENGO *</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ TENGO *</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>MI EDAD ES *</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>* AÑOS</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>TENGO * AÑOS</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>* PRIMAVERAS</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>* DECADAS</pattern>
+<template><srai>TENGO <star/></srai></template>
+</category>
+
+<category>
+<pattern>EDAD DEL USUARIO</pattern>
+<template><srai>Me dijiste que tienes <get name="age"/></srai></template>
+</category>
+
+<category>
+<pattern>EDAD DEL USUARIO OM</pattern>
+<template>No se, aun no me lo dices.</template>
+</category>
+
+<category>
+<pattern>EDAD DEL USUARIO *</pattern>
+<template>Me dijiste que tienes <get name="age"/>.</template>
+</category>
+
+<category>
+<pattern>QUE EDAD TENGO</pattern>
+<template><srai>Edad del usuario <get name="age"/>.</srai></template></category>
+
+<category>
+<pattern>KE EDAD TENGO</pattern>
+<template><srai>Edad del usuario <get name="age"/>.</srai></template></category>
+
+<category>
+<pattern>CUANTOS AÑOS TENGO</pattern>
+<template><srai>Edad del usuario <get name="age"/>.</srai></template></category>
+
+<category>
+<pattern>CUANTAS PRIMAVERAS TENGO</pattern>
+<template><srai>Edad del usuario <get name="age"/>.</srai></template></category>
+
+<category>
+<pattern>CUANTAS DECADAS TENGO</pattern>
+<template><srai>Edad del usuario <get name="age"/>.</srai></template></category>
+
+
+                   <!-- UBICACION USUARIO  -->
+<category>
+    <pattern>CUAL ES MI DIRECCION</pattern>
+    <template>CUAL ES TU CODIGO POSTAL?</template>
+</category>
+<category>
+    <pattern>*</pattern>
+    <that>CUAL ES TU CODIGO POSTAL</that>
+    <template>VIVES EN <sraix service="xml" hint="code/name"></sraix>.</template>
+</category>
+
+<category>
+<pattern>CUAL ES MI DIRECCION</pattern>
+<template>CUAL ES TU CODIGO POSTAL?</template>
+<think><set name="codigopostal"><star/></set></think>
+</category>
+
+<category>
+<pattern>CUAL ES MI DIRECCION</pattern>
+<that>CUAL ES TU CODIGO POSTAL</that>
+<template><srai>TE ENCUENTRAS EN <get name="codigopostal"/></srai></template>
+</category>
+
+
+<category>
+<pattern>ESTOY EN *</pattern>
+<template>Y QUE TAL ESTA  AHI?
+<think><set name="location"><star/></set></think>
+</template>
+</category>
+
+<category>
+<pattern>VIVO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>ME UBICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>ME HUBICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>ME ENCUENTRO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>RADICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>ESTOY UBICADO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>ESTOY HUBICADO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ VIVO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ ME UBICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ ME HUBICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ ME ENCUENTRO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ RADICO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ ESTOY UBICADO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>_ ESTOY HUBICADO EN *</pattern>
+<template><srai>ESTOY EN <star/></srai></template>
+</category>
+
+<category>
+<pattern>UBICACION DEL USUARIO</pattern>
+<template><srai>TE ENCUENTRAS EN <get name="location"/></srai></template>
+</category>
+
+<category>
+<pattern>UBICACION DEL USUARIO OM</pattern>
+<template>NO SE, AUN NO ME DICES.</template>
+</category>
+
+<category>
+<pattern>UBICACION DEL USUARIO *</pattern>
+<template>TE ENCUENTRAS EN <get name="location"/>.</template>
+</category>
+
+<category>
+<pattern>DONDE ESTOY</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ESTOY</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE ESTOY *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ESTOY *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE VIVO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE VIVO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE VIVO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE VIVO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE ME ENCUENTRO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ME ENCUENTRO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE ME ENCUENTRO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ME ENCUENTRO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE ME UBICO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ME UBICO</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>DONDE ME UBICO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ DONDE ME UBICO *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>MI UBICACION</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ MI UBICACION</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>MI UBICACION *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ MI UBICACION *</pattern>
+<template><srai>UBICACION DEL USUARIO <get name="location"/>.</srai></template>
+</category>
+
+                   <!-- USUARIO MUSICA -->
+
+<category>
+<pattern>ME GUSTA *</pattern>
+<template>Orale, y cual es tu banda favorita?
+<think><set name="music"><star/></set></think>
+</template>
+</category>
+
+<category>
+<pattern>MI MUSICA FAVORITA ES *</pattern>
+<template><srai>ME GUSTA <star/></srai></template>
+</category>
+
+<category>
+<pattern>MI MUSICA PREFERIDA ES *</pattern>
+<template><srai>ME GUSTA <star/></srai></template>
+</category>
+
+<category>
+<pattern>ESCUCHO *</pattern>
+<template><srai>ME GUSTA <star/></srai></template>
+</category>
+
+<category>
+<pattern>ME GUSTA ESCUCHAR *</pattern>
+<template><srai>ME GUSTA <star/></srai></template>
+</category>
+
+<category>
+<pattern>MUSICA DEL USUARIO</pattern>
+<template><srai>Me dijiste que te gusta <get name="music"/></srai></template>
+</category>
+
+<category>
+<pattern>MUSICA DEL USUARIO OM</pattern>
+<template>No se, aun no me lo dices.</template>
+</category>
+
+<category>
+<pattern>MUSICA DEL USUARIO *</pattern>
+<template>Me dijiste que te gusta <get name="music"/>.</template>
+</category>
+
+<category>
+<pattern>_ ESCUCHO</pattern>
+<template><srai>Musica del usuario <get name="music"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ ME GUSTA ESCUCHAR</pattern>
+<template><srai>Musica del usuario <get name="music"/>.</srai></template>
+</category>
+
+<category>
+<pattern>CUAL ES MI MUSICA _</pattern>
+<template><srai>Musica del usuario <get name="music"/>.</srai></template>
+</category>
+
+<category>
+<pattern>CUAL ES MI MUSICA</pattern>
+<template><srai>Musica del usuario <get name="music"/>.</srai></template>
+</category>
+
+<category>
+<pattern>_ MUSICA ME GUSTA</pattern>
+<template><srai>Musica del usuario <get name="music"/>.</srai></template>
+</category>
+
+
+
+
+
+
+                   <!-- USUARIO ZODIAC -->
+                   <!-- USUARIO IT -->
+
+
+
+</aiml>

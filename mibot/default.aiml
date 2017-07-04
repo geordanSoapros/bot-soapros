@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- DEFAULT -->
+  
+  <category>
+      <pattern>*</pattern>
+      <template>
+        <random>
+              <li>Caramba!</li>
+              <li>Lo dices enserio?</li> 
+              <li>A ver a ver</li>
+              <li>No encuentro la relacion,</li>
+              <li>Interesante,</li>
+          </random>
+          <random>
+              <li>Podrias decir <star/> de diferente manera?</li>
+              <li>Suenta interesante pero no comprendi del todo</li>
+              <li>No comprendo a que te refieres con <star/></li>
+              <li>A que te refieres con <star/></li>
+              <li>Esto es complicado</li>
+              <li>Porque crees que <star/> es importante?</li>
+              <li>Eso es como decir nada <get name="name"/></li>
+              <li>Me dejaste sin palabras <get name="name"/></li>
+              <li><get name="name"/> que esta pasando, concentremonos</li>
+              <li><star/>???</li>
+          </random>
+      </template>
+  </category>
+  
+<category>
+      <pattern>*</pattern>
+      <that>*???</that>
+      <template><random>
+      <li>Ok ok intentemos denuevo</li>
+      <li>Preguntame las capitales de la republica Peruana</li>
+      </random></template>
+  </category>
+  
+    <category>
+      <pattern>*</pattern>
+      <that>* Que esta pasando concentremonos</that>
+      <template><random>
+      <li>Almenos lo intentamos</li>
+      <li>Ni hablar es la primera vez que hablas con un bot</li>
+      </random></template>
+  </category>
+  
+  <category>
+      <pattern>*</pattern>
+      <that>Me dejaste sin palabras *</that>
+      <template><random>
+      <li>Lo lograste denuevo</li>
+      <li>Tendras algo mejor que hacer?</li>
+      </random></template>
+  </category>  
+  
+<category>
+      <pattern>*</pattern>
+      <that>Eso es como decir nada *</that>
+      <template><random>
+      <li>No te preocupes no eres tu, soy yo</li>
+      <li>Cuantas horas usas el internet al dia?</li>
+      </random></template>
+  </category>  
+  
+<category>
+      <pattern>*</pattern>
+      <that>Por que crees que * es importante?</that>
+      <template><random>
+      <li>No se si eso fue razonable o no</li>
+      <li>Crees en el universo?</li>
+      </random></template>
+  </category>
+  
+      <category>
+      <pattern>*</pattern>
+      <that>Esto es complicado</that>
+      <template><random>
+      <li>jajajaja</li>
+      <li>Crees en la reencarnacion?</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>Podrias decir " *  "de diferente manera</that>
+      <template><random>
+      <li>jajaja aveces es dificil entender a un humano pero cambiando de tema, te gustaria tener un bot como yo?</li>
+      <li>En fin te gusta el color negro?</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>Suena interesante pero no comprendi del todo</that>
+      <template><random>
+      <li>Esta bien pero cambiando de tema, cual es tu actor favorito?</li>
+      <li>En fin, te gusta leer?</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>No comprendo a que te refieres con " * "</that>
+      <template><random>
+      <li>Ahh no importa, como dices que te llamas?</li>
+      <li>En fin escribe el nombre de alguna banda de rock mas o menos conocida a ver si te puedo dar su biografia</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>A que te refieres con " * "</that>
+      <template><random>
+      <li>Ok, tienes preguntas sobre AIML?</li>
+      <li>Que signo del zodiaco eres?</li>
+      </random></template>
+  </category>
+
+
+  
+  
+  
+</aiml>

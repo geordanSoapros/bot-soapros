@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- BIOGRAFIAS -->
+  
+                                  <!-- A -->
+
+
+<category>
+<pattern>^ AEROSMITH ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografias.es/famosos/aerosmith.html" target="_blank"> 
+<font color="#800000">AEROSMITH</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ AGUSTIN LARA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografias.es/famosos/agustin-lara.html" target="_blank"> 
+<font color="#800000">AGUSTIN LARA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ANABANTHA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=18903" target="_blank"> 
+<font color="#800000">ANABANTHA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ANGELES DEL INFIERNO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.valladolidwebmusical.org/grabaciones/07/angeles_del_infierno_tributo/biografia.htm" target="_blank"> 
+<font color="#800000">ANGELES DEL INFIERNO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ANTHRAX ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Anthrax" target="_blank"> 
+<font color="#800000">ANTHRAX</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ARKANIA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="ARKANIA" target="_blank"> 
+<font color="#800000">ARKANIA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+                                  <!-- B -->
+
+
+
+
+<category>
+<pattern>^ BABASONICOS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=2325" target="_blank"> 
+<font color="#800000">BABASONICOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BETOVEN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/monografia/beethoven/" target="_blank"> 
+<font color="#800000">BETOVEN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BEETHOVEN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/monografia/beethoven/" target="_blank"> 
+<font color="#800000">BETOVEN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BLACK SABBATH ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Black_Sabbath" target="_blank"> 
+<font color="#800000">BLACK SABBATH</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BOSTIK ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://rockeros.net/bandas/banda_bostik.html" target="_blank"> 
+<font color="#800000">NANDA BOSTIK</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BOB DYLAN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/biografia/d/dylan.htm" target="_blank"> 
+<font color="#800000">BOB DYLAN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BOB MARLEY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Bob_Marley" target="_blank"> 
+<font color="#800000">BOB MARLEY</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BOTELLITA DE JEREZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Botellita_de_Jerez" target="_blank"> 
+<font color="#800000">BOTELLITA DE JEREZ</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BRUJERIA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Brujeria_(banda)" target="_blank"> 
+<font color="#800000">BRUJERIA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BUNKERS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://losbunkers.cl/bio/" target="_blank"> 
+<font color="#800000">BUNKERS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+                                  <!-- C -->
+
+
+
+
+<category>
+<pattern>^ CAFE TACUVA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Caf%C3%A9_Tacuba" target="_blank"> 
+<font color="#800000">CAFE TACUBA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ CAFE TACUBA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Caf%C3%A9_Tacuba" target="_blank"> 
+<font color="#800000">CAFE TACUBA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>>
+
+<category>
+<pattern>^ CAIFANES ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Caifanes_(banda)" target="_blank"> 
+<font color="#800000">CAIFANES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SANTANA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=37996" target="_blank"> 
+<font color="#800000">CARLOS SANTANA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TOUSSAINT ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.ecured.cu/index.php/Cecilia_Toussaint" target="_blank"> 
+<font color="#800000">CECILIA TOUSSAINT</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MONTTANA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.lastfm.es/music/Charlie+Monttana/+wiki" target="_blank"> 
+<font color="#800000">CHARLIE MONTTANA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ CODA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Coda_(banda_mexicana)" target="_blank"> 
+<font color="#800000">CODA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ CUCA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=8445" target="_blank"> 
+<font color="#800000">CUCA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+                                  <!-- D -->
+
+
+
+<category>
+<pattern>^ DANIELS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=24476" target="_blank"> 
+<font color="#800000">LOS DANIELS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DEEP PURPLE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Deep_Purple" target="_blank"> 
+<font color="#800000">DEEP PURPLE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DEF LEPPARD ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Def_Leppard" target="_blank"> 
+<font color="#800000">DEF LEPPARD</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DIVISION MINUSCULA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Divisi%C3%B3n_Min%C3%BAscula" target="_blank"> 
+<font color="#800000">DIVISION MINUSCULA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DILDO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://es.wikipedia.org/wiki/DLD" target="_blank"> 
+<font color="#800000">DILDO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DLD ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://es.wikipedia.org/wiki/DLD" target="_blank"> 
+<font color="#800000">DILDO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ DIO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.lastfm.es/music/Dio/+wiki" target="_blank"> 
+<font color="#800000">DIO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+                                  <!-- E -->
+
+
+
+
+
+<category>
+<pattern>^ ENANITOS VERDES ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.pergaminovirtual.com.ar/especiales/cgi-bin/hoy/archivos/00000026.shtml" target="_blank"> 
+<font color="#800000">ENANITOS VERDES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ BUNBURY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/biografia/b/bunbury.htm" target="_blank"> 
+<font color="#800000">ENRIQUE BUNBURY</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ELEFANTE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Elefante_(banda_mexicana)" target="_blank"> 
+<font color="#800000">ELEFANTE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ EL TRI ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.ecured.cu/index.php/El_Tri" target="_blank"> 
+<font color="#800000">EL TRI</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ELY GUERRA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Ely_Guerra" target="_blank"> 
+<font color="#800000">ELY GUERRA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+                                  <!-- F -->
+
+
+
+
+
+<category>
+<pattern>^ FITO PAEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Fito_P%C3%A1ez" target="_blank"> 
+<font color="#800000">FITO PAEZ</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ FOBIA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Fobia_(banda)" target="_blank"> 
+<font color="#800000">FOBIA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MERCURY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografias.es/famosos/freddie-mercury.html" target="_blank"> 
+<font color="#800000">FREDDIE MERCURY</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+                                  <!-- G -->
+
+
+
+
+
+
+<category>
+<pattern>^ GARROBOS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.lastfm.es/music/Garrobos/+wiki" target="_blank"> 
+<font color="#800000">GARROBOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ GREEN DAY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Green_Day" target="_blank"> 
+<font color="#800000">GREEN DAY</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ROSES ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/biografia/g/guns_and_roses.htm" target="_blank"> 
+<font color="#800000">GUNS N ROSES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- H -->
+
+
+
+
+
+
+<category>
+<pattern>^ HARAGAN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/El_Harag%C3%A1n_y_Compa%C3%B1%C3%ADa" target="_blank"> 
+<font color="#800000">HARAGAN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ HEAVY NOPAL ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://www.facebook.com/heavynopaloficial/info?tab=page_info" target="_blank"> 
+<font color="#800000">HEAVY NOPAL</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ HELLOWEEN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Helloween" target="_blank"> 
+<font color="#800000">HELLOWEEN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ HOCICO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.sonidobscuro.com/articulos/artistas/hocico.html" target="_blank"> 
+<font color="#800000">HOCICO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- I -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ IL DIVO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i210/il-divo.html" target="_blank"> 
+<font color="#800000">IL DIVO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ILONA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i250/ilona.html" target="_blank"> 
+<font color="#800000">ILONA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ INDIO SOLARI ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i138/indio-solari.html" target="_blank"> 
+<font color="#800000">INDIO SOLARI</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ INTOXICADOS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i145/intoxicados.html" target="_blank"> 
+<font color="#800000">INTOXICADOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MAIDEN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/biografia/i/iron_maiden.htm" target="_blank"> 
+<font color="#800000">IRON MAIDEN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SERRANO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i92/ismael-serrano.html" target="_blank"> 
+<font color="#800000">ISMAEL SERRANO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- J -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ JAGUARES ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Jaguares" target="_blank"> 
+<font color="#800000">JAGUARES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ JIM MORRISON ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografias.es/famosos/jim-morrison.html" target="_blank"> 
+<font color="#800000">JIM MORRISON</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SEBASTIAN BACH ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/monografia/bach/musica.htm" target="_blank"> 
+<font color="#800000">JOHANN SEBASTIAN BACH</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ JORGE NEGRETE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Jorge_Negrete" target="_blank"> 
+<font color="#800000">JORGE NEGRETE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ JUAN HERNANDEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.chopo.unam.mx/musica/JuanHernandez.html" target="_blank"> 
+<font color="#800000">JUAN HDEZ Y SU BANDA DE BLUES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ JULIETA VENEGAS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Julieta_Venegas" target="_blank"> 
+<font color="#800000">JULIETA VENEGAS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ JUMBO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=7941" target="_blank"> 
+<font color="#800000">JUMBO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- K -->
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ KENNY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.fotolog.com/t0d0_r0ck/26335640/" target="_blank"> 
+<font color="#800000">KENNY Y LOS ELECTRICOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ KING DIAMOND ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/King_Diamond" target="_blank"> 
+<font color="#800000">KING DIAMOND</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ KORN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i245/korn.html" target="_blank"> 
+<font color="#800000">KORN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- L -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ BARRANCA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.labarranca.com.mx/biografia" target="_blank"> 
+<font color="#800000">LA BARRANCA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ CASTAñEDA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://rockulto.wordpress.com/2-musica-en-espanol/la-castaneda/" target="_blank"> 
+<font color="#800000">LA CASTAñEDA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ GUSANA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/La_Gusana_Ciega" target="_blank"> 
+<font color="#800000">LA GUSANA CIEGA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ LUPITA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.wopvideos.com/La%20Lupita/biografia/" target="_blank"> 
+<font color="#800000">LA LUPITA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ LA UNION ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.launion.net/biografia/" target="_blank"> 
+<font color="#800000">LA UNION</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ LEPROSY ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Leprosy_(banda)" target="_blank"> 
+<font color="#800000">LEPROSY</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ LIRAN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.liranroll.com.mx/historia.html" target="_blank"> 
+<font color="#800000">LIRAN ROLL</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ AMANTES DE LOLA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Los_Amantes_de_Lola" target="_blank"> 
+<font color="#800000">LOS AMANTES DE LOLA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TOREROS MUERTOS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://es.wikipedia.org/wiki/Los_toreros_muertos" target="_blank"> 
+<font color="#800000">TOREROS MUERTOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+                                  <!-- M -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ MALDITA VECINDAD ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Maldita_Vecindad_y_los_Hijos_del_Quinto_Patio" target="_blank"> 
+<font color="#800000">MALDITA VECINDAD</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MANA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Man%C3%A1_(banda)" target="_blank"> 
+<font color="#800000">MANA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MANO NEGRA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Mano_Negra_(banda)" target="_blank"> 
+<font color="#800000">MANO NEGRA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MANU ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/biografia/c/chao_manu.htm" target="_blank"> 
+<font color="#800000">MANU CHAO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MOLOTOV ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Molotov_(banda)" target="_blank"> 
+<font color="#800000">MOLOTOV</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+                                  <!-- N -->
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ NANA PANCHA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.lastfm.es/music/Nana+Pancha/+wiki" target="_blank"> 
+<font color="#800000">NANA PANCHA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NATALIA JIMENEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i308/natalia-jimenez.html" target="_blank"> 
+<font color="#800000">NATALIA JIMENEZ</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NEK ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i35/nek.html" target="_blank"> 
+<font color="#800000">NEK</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NELLY FURTADO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i36/nelly-furtado.html" target="_blank"> 
+<font color="#800000">NELLY FURTADO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NICKELBACK ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i191/nickelback.html" target="_blank"> 
+<font color="#800000">NICKELBACK</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NIRVANA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=284" target="_blank"> 
+<font color="#800000">NIRVANA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ NO TE VA GUSTAR ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i225/no-te-va-gustar.html" target="_blank"> 
+<font color="#800000">NO TE VA GUSTAR</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- O -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ OASIS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i38/oasis.html" target="_blank"> 
+<font color="#800000">OASIS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ OBIE BERMUDEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i230/obie-bermudez.html" target="_blank"> 
+<font color="#800000">OBIE BERMUDEZ</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ OZZY OSBOURNE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Ozzy_Osbourne" target="_blank"> 
+<font color="#800000">OZZY OSBOURNE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+                                  <!-- P -->
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ NERUDA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Pablo_Neruda" target="_blank"> 
+<font color="#800000">PABLO NERUDA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ PANDA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Panda_(banda)" target="_blank"> 
+<font color="#800000">PANDA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ PANTEON ROCOCO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.panteonrococo.com/bio.html" target="_blank"> 
+<font color="#800000">PANTEON ROCOCO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ PEARL JAM ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Pearl_Jam" target="_blank"> 
+<font color="#800000">PEARL JAM</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ PEDRO INFANTE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Pedro_Infante" target="_blank"> 
+<font color="#800000">PEDRO INFANTE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ PLASTILINA MOSH ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Plastilina_Mosh" target="_blank"> 
+<font color="#800000">PLASTILINA MOSH</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+                                  <!-- Q -->
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ QUEEN ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Queen" target="_blank"> 
+<font color="#800000">QUEEN</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- R -->
+
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ RAMONES ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Ramones" target="_blank"> 
+<font color="#800000">RAMONES</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ RATA BLANCA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.musica.com/letras.asp?biografia=11359" target="_blank"> 
+<font color="#800000">RATA BLANCA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ RESORTE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Resorte_(banda)" target="_blank"> 
+<font color="#800000">RESORTE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ROCKDRIGO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Rodrigo_Gonz%C3%A1lez_(m%C3%BAsico_mexicano)" target="_blank"> 
+<font color="#800000">ROCKDRIGO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ RODRIGO GONZALEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Rodrigo_Gonz%C3%A1lez_(m%C3%BAsico_mexicano)" target="_blank"> 
+<font color="#800000">ROCKDRIGO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- S -->
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ SANTA SABINA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Santa_Sabina_(banda)" target="_blank"> 
+<font color="#800000">SANTA SABINA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SEPULTURA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Sepultura_(banda)" target="_blank"> 
+<font color="#800000">SEPULTURA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SKID ROW ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Skid_Row" target="_blank"> 
+<font color="#800000">SKID ROW</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ SONORA SANTANERA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/La_Sonora_Santanera" target="_blank"> 
+<font color="#800000">LA SONORA SANTANERA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+                                  <!-- T -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ TEX TEX ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Tex_Tex" target="_blank"> 
+<font color="#800000">TEX TEX</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TEXTEX ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Tex_Tex" target="_blank"> 
+<font color="#800000">TEX TEX</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ORCHESTRA ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="https://www.facebook.com/TheFKO/info?tab=page_info" target="_blank"> 
+<font color="#800000">THE FUCK KING ORCHESTRA</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TIJUANA NO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Tijuana_No!" target="_blank"> 
+<font color="#800000">TIJUANA NO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TRANSMETAL ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Transmetal" target="_blank"> 
+<font color="#800000">TRANSMETAL</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ TREMENDA KORTE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/La_Tremenda_Korte" target="_blank"> 
+<font color="#800000">LA TREMENDA KORTE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- U -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ ULTRASONICAS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.lastfm.es/music/Las+Ultras%C3%B3nicas/+wiki" target="_blank"> 
+<font color="#800000">LAS ULTRASONICAS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ USHER ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i263/usher.html" target="_blank"> 
+<font color="#800000">USHER</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ U2 ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/U2" target="_blank"> 
+<font color="#800000">U2</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>  
+
+
+
+
+
+
+
+
+
+                                  <!-- V -->
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ VAGABUN2 ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://vagabun2.mx.tripod.com/vagabun2/id2.html" target="_blank"> 
+<font color="#800000">VAGABUN2</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ VELVET REVOLVER ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i242/velvet-revolver.html" target="_blank"> 
+<font color="#800000">VELVET REVOLVER</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ VICENTE FERNANDEZ ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez" target="_blank"> 
+<font color="#800000">VICENTE FERNANDEZ</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ VICENTICO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://musica.itematika.com/biografia/i122/vicentico.html" target="_blank"> 
+<font color="#800000">VICENTICO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ VICTIMAS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Las_V%C3%ADctimas_del_Doctor_Cerebro" target="_blank"> 
+<font color="#800000">VICTIMAS DEL DOCTOR CEREBRO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ VILLANOS ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografias.es/famosos/aerosmith.html" target="_blank"> 
+<font color="#800000">VILLANOS</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- W -->
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ WHITE ZOMBIE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/White_Zombie_(banda)" target="_blank"> 
+<font color="#800000">WHITE ZOMBIE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ MOZART ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://www.biografiasyvidas.com/monografia/mozart/musica.htm" target="_blank"> 
+<font color="#800000">MOZART</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+                                  <!-- X -->
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ XTREME ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Xtreme_(banda)" target="_blank"> 
+<font color="#800000">XTREME</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+                                  <!-- Y -->
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ YUCATAN A GO GO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Zo%C3%A9" target="_blank"> 
+<font color="#800000">YUCATAN A GO GO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ YUCATAN A GOGO ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Zo%C3%A9" target="_blank"> 
+<font color="#800000">YUCATAN A GO GO</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+                                  <!-- Z -->
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>^ ZOE ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Zo%C3%A9" target="_blank"> 
+<font color="#800000">ZOE</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ZURDOK ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://es.wikipedia.org/wiki/Zurdok" target="_blank"> 
+<font color="#800000">ZURDOK</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+<category>
+<pattern>^ ZZ TOP ^</pattern>
+<template>LEE LA BIOGRAFIA DE <a href="http://en.wikipedia.org/wiki/ZZ_Top" target="_blank"> 
+<font color="#800000">ZZ TOP</font>,</a> DANDO CLICK EN SU NOMBRE. 
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+</aiml>

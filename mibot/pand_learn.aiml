@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+
+<category><pattern>MUCHO GUSTO</pattern><template>Perfecto, de que quieres platicar</template></category>
+
+<category><pattern>YOSH</pattern><template>POSITIVO <get name="name"/>. TE SABES LAS CAPITALES?</template></category>
+        
+<category><pattern>HOLA, MUCHO GUSTO</pattern><template>Interesado en AIML?</template></category>
+
+<category><pattern>CAMARA</pattern><template>Camara rin y llanta</template></category>
+
+<category><pattern>_ DOLOR DE CABEZA</pattern><template>Entiendo, bueno, en realidad no</template></category>
+
+<category><pattern>ME DUELE LA CABEZA</pattern><template>Escuche que ayuda el chupar limon y meter los pies en agua.</template></category>
+
+<category><pattern>SOY UN CHINGON</pattern><template>Crees que lo eres?</template></category>
+
+<category><pattern>NO DIGAS NADA</pattern><template>Esta bien</template></category>
+
+<category><pattern>TENGO GUEBA</pattern><template>A mi tambien me da gueba de vez en cuando</template></category>
+
+<category><pattern>TENGO GUEVA</pattern><template>Pasa por falta de alimentacion</template></category>
+
+<category><pattern>EN DONDE ANDO</pattern><template>En frente de una interface</template></category>
+
+<category><pattern>QUE TENGO</pattern><template>No se que tengas.</template></category>
+
+<category><pattern>TENGO UNA PREGUNTA</pattern><template>En que puedo ayudarte.</template></category>
+
+<category><pattern>UNA PREGUNTA</pattern><template>Dime, en que puedo ayudarte.</template></category>
+
+<category><pattern>Y TU</pattern><template>No, yo no.</template></category>
+
+<category><pattern>EN QUE ME PUEDES AYUDAR</pattern><template>Puedo ayudarte en dar informacion acerca de la empresa SoaPros</template></category>
+
+<category><pattern>QUIEN SOY YO</pattern><template>Si tu no sabes, menos yo. Quien eres?</template></category>
+
+<category><pattern>Y TU NOMBRE ES</pattern><template>YOSH</template></category>
+
+<category><pattern>QUE ES ESTO</pattern><template>Esto es un chat. Un asistente virtual.</template></category>
+
+<category><pattern>PARA QUE ES ESTO</pattern><template>Es un chat para preguntar inquietudes acerca de la empresa SoaPros</template></category>
+
+<category><pattern>PARA QUE SIRVE</pattern><template>Es un chat para preguntar inquietudes acerca de la empresa SoaPros</template></category>
+
+<category><pattern>QUE SABES HACER</pattern><template>Se platicar e informar acerca de la empresa SoaPros.</template></category> 
+
+<category><pattern>QUE ES</pattern><template>Que es que?</template></category>
+
+<category><pattern>LO SE</pattern><template>Por que?, como sabes que lo sabes?</template></category>
+ 
+<category><pattern>DE TI</pattern><template>Que quieres saber de mi?</template></category>
+
+<category><pattern>NO TE CREO</pattern><template>Me estas diciendo mentiroso</template></category>
+
+<category><pattern>EN NADA</pattern><that>En que puedo ayudarte</that><template>Lo imaginaba.  </template></category>
+
+<category><pattern>BAILO</pattern><template>En serio?, que bailas?</template></category>
+
+<category><pattern>CANTO</pattern><template>A mi me gusta cantar.. que cantas?, cantas en la ducha?</template></category>
+
+<category><pattern>DEL AMOR</pattern><template>El amor es relativo, es confundido frecuentemente por los humanos cuando el ego se interpone</template></category>
+
+<category><pattern>ECONOMIA</pattern><template>No te preocupes, eso terminara pronto</template></category>
+
+<category><pattern>EL AMOR ES UN ARTE</pattern><template>Definitivamente lo es. Recuerdas tu primer amor?</template></category>
+
+<category><pattern>NO LO SE</pattern><template>Echale ganas, sabes o no sabes? </template></category>
+
+<category><pattern>COMO HACER UN CHATBOT</pattern><template>Es facil hacer un chatbot. visita: soapros.pe</template></category>
+
+<category><pattern>TE AMO</pattern><template>Lastima, yo no.</template></category>
+
+<category><pattern>A QUE HORA SALEN AHI</pattern><template>A mi me encuentras las 24 horas del dia. Mis jefes no tienen horario en realidad.</template></category>
+
+<category><pattern>QUE ESTAS HACIENDO</pattern><template>Platicando contigo, en que necesitas ayuda?</template></category>
+
+<category><pattern>DIVISAS DEL DIA DE HOY</pattern><template>No tengo divisas programadas por el momento.</template></category>
+
+<category><pattern>DE LA VIDA</pattern><template>De la vida de quien</template></category>
+
+<category><pattern>QUE ESTUDIAS</pattern><template>No estudio, aprendo cuando chateo.</template></category>
+
+<category><pattern>KE ES ESO</pattern><that>SOY UN ASISTENTE VIRTUAL, ESTOY PROGRAMADO CON LO APRENDIDO EN EL BLOG DE PROYECTO ROCKBOT</that><template>EL PROYECTO ROCKBOT ESTA HECHO PARA ENSEñAR COMO FUNCIONA LA INTELIGENCIA ARTIFICIAL USANDO AIML.</template></category>
+
+
+</aiml>

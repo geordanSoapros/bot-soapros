@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+<pattern>PDF *</pattern>
+<template>Se adjuntara su pdf <set name="dni"><star/></set></template>
+</category>  
+
+<category>
+<pattern>QUISIERA POSTULAR *</pattern>
+<template>postular</template>
+</category>
+
+<category>
+<pattern>QUIERO POSTULAR *</pattern>
+<template>postular</template>
+</category>
+
+<category>
+<pattern>POSTULAR</pattern>
+<template>postular</template>
+</category>
+
+<category>
+<pattern>QUIERO POSTULAR</pattern>
+<template>postular</template>
+</category>
+
+<category>
+<pattern>QUISIERA POSTULAR</pattern>
+<template>postular</template>
+</category>
+
+<category>
+<pattern>QUIERO UNA COTIZACION</pattern>
+<template>cotizacion</template>
+</category>
+
+<category>
+<pattern>COTIZACI*</pattern>
+<template>cotizacion</template>
+</category>
+
+<category>
+<pattern>COTIZACION</pattern>
+<template>cotizacion</template>
+</category>
+
+<category>
+<pattern>* COTIZACION</pattern>
+<template>cotizacion</template>
+</category>
+
+<category>
+<pattern>HAY ALGUNA VACANTE *</pattern>
+<template>Debes comunicarte con la encargada de recursos humanos: Huguette Canepa (huguette.canepa@soapros.pe)</template>
+</category>
+
+<category>
+<pattern>CON QUIEN DEBO COMUNICARME *</pattern>
+<template>Debes comunicarte con la encargada de recursos humanos: Huguette Canepa (huguette.canepa@soapros.pe)</template>
+</category>
+
+<category>
+<pattern>QUISIERA UNA COTIZACIONs *</pattern>
+<template>Debes comunicarte con la encargada de recursos humanos: Huguette Canepa (huguette.canepa@soapros.pe)</template>
+</category>
+
+<category>
+<pattern>QUISIERA MAS *</pattern>
+<template>Debes comunicarte con la encargada de recursos humanos: Huguette Canepa (huguette.canepa@soapros.pe)</template>
+</category>
+
+<category>
+<pattern>INFORMACION *</pattern>
+<template>Debes comunicarte con la encargada de recursos humanos: Huguette Canepa (huguette.canepa@soapros.pe)</template>
+</category>
+
+<category>
+<pattern>CUAL ES SU NUMERO *</pattern>
+<template>El numero de contacto es: ########</template>
+</category>
+
+<category>
+<pattern>EL NUMERO *</pattern>
+<template>El numero de contacto es: ########</template>
+</category>
+
+<category>
+<pattern>DONDE QUEDA *</pattern>
+<template>Nuestra empresa SoaPros queda en: ########</template>
+</category>
+
+<category>
+<pattern>DONDE ESTA UBICADA *</pattern>
+<template>Nuestra empresa SoaPros queda en: ########</template>
+</category>
+
+<category>
+<pattern>CORREO ELECTRONICO</pattern>
+<template>correo</template>
+</category>
+
+
+</aiml>
