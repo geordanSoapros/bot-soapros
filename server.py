@@ -1,5 +1,8 @@
 # coding: utf-8
 import os
+import logging
+from logging.handlers import RotatingFileHandler
+
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0,parentdir)
 
@@ -32,6 +35,9 @@ def webhook():
     print(payload)
     page.handle_webhook(payload)
     page.show_starting_button("START_PAYLOAD")
+    app.logger.warning('A warning occurred (%d apples)', 42)
+    app.logger.error('An error occurred')
+    app.logger.info('Info')
     
     return "ok"
 
@@ -58,4 +64,7 @@ def assets(path):
 
 
 if __name__ == '__main__':
+    handler = RotatingFileHandler('console.log', maxBytes=10000, backupCount=1)
+    handler.setLevel(logging.INFO)
+    app.logger.addHandler(handler)
     app.run(debug=True, threaded=True)
